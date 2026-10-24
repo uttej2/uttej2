@@ -21,11 +21,11 @@
 ```python
 class DataAnalyst:
     def __init__(self):
-        self.name = "Bachu Uttej Siva Sai Kumar Reddy"
-        self.role = "Data Analyst & IT Controls Specialist"
-        self.education = "B.Tech in Computer Science & Engineering (2025)"
-        self.core_focus = ["Exploratory Data Analysis", "Business Intelligence", "ETL Pipelines", "ITGC / SOX Compliance"]
-        self.current_goal = "Transforming complex datasets into actionable executive insights"
+      "Bachu Uttej Siva Sai Kumar Reddy"
+       "Data Analyst & IT Controls Specialist"
+        "B.Tech in Computer Science & Engineering (2025)"
+     ["Exploratory Data Analysis", "Business Intelligence", "ETL Pipelines", "ITGC / SOX Compliance"]
+      "Transforming complex datasets into actionable executive insights"
 ```
 
 </div>
